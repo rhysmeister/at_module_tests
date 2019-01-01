@@ -1,0 +1,7 @@
+{
+    "ANSIBLE_MODULE_ARGS": {
+    	"command": "ls -d / >/dev/null",
+    	"count": 20,
+    	"units": "weeks"
+	}
+}
